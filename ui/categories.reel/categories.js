@@ -1,6 +1,6 @@
 /**
  * @module ui/categories.reel
- * @requires montage/ui/component
+ * @requires montage/ui/componen
  */
 var Component = require("montage/ui/component").Component;
 
